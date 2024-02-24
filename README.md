@@ -1,5 +1,10 @@
 # Develop a simple TCP/IP client-server application in Python to handle reading and writing attributes associated with a person's name.
 
+<div align="center">
+  <img src="img/1.png" >
+  <img src="img/2.png" >
+</div>
+
 socket: Provides low-level networking interface.
 json: Used for encoding and decoding JSON data.
 handle_command: Processes incoming commands. Reads or writes data based on the action specified.
